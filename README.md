@@ -1,6 +1,6 @@
 <!-- ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif) -->
 
-### Hi there 👋, I'm Aris Ripandi, you can call me Ar!
+### Hi there 👋, you can call me Ar!
 ###### *Full-stack developer & educator*
 
 I'm a pragmatic coder, passionate lecturer, tech enthusiast, and I love to exploring various things. 
