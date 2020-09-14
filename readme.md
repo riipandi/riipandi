@@ -19,14 +19,14 @@
   </a>
 </p>
 
-<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true" align="right" height="180" />
+<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true" align="right" height="160" />
 
 Hi there 👋, I'am a full-stack developer & educator, also tech enthusiast. 
 I love to exploring various things and I really enjoys the teaching / learning cycle.
 Mostly coding in PHP.
 
 * Stack: Laravel, Spring Boot, Flask, ReactJS, VueJS, .Net Core, TailwindCSS, WordPress
-* Database: PostgreSQL, MariaDB, MySQL, Redis, SQL Server, MongoDB
+* DB: PostgreSQL, MariaDB/MySQL, Redis, SQL Server
 * Misc: AWS, GCP, GSuite, Nginx, CI/CD, Multipass, Docker, Raspberry Pi
 
 <!--
