@@ -19,11 +19,9 @@
   </a>
 </p>
 
-<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true" align="right" height="160" />
+<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true" align="right" height="168" />
 
-Hi there 👋, I'am a full-stack developer & educator, also tech enthusiast. 
-I love to exploring various things and I really enjoys the teaching / learning cycle.
-Mostly coding in PHP.
+Hi there 👋, I'm a full-stack developer & educator, also tech enthusiast. I love to exploring various things and I really enjoy the teaching/learning cycle. Mostly coding in PHP.
 
 * Stack: Laravel, Spring Boot, Flask, ReactJS, VueJS, .Net Core, TailwindCSS, WordPress
 * DB: PostgreSQL, MariaDB/MySQL, Redis, SQL Server
