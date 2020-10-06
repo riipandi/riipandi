@@ -30,7 +30,7 @@ Mostly coding in PHP.
 ---
 
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&theme=radical" align="left" height="168" />
-<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="right" height="168" />
+<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="168" />
 
 <!--
 ### Hi there 👋
