@@ -19,11 +19,15 @@
   </a>
 </p>
 
-Hi there 👋, I'm a full-stack developer & educator, also tech enthusiast. I love to exploring various things and I really enjoy the teaching/learning cycle. Mostly coding in PHP.
+Hi there 👋, I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
+I also an educator and tech enthusiast. I love to exploring various things and I really enjoy the teaching/learning cycle.
+Mostly coding in PHP.
 
 * Stack: Laravel, Spring Boot, Flask, ReactJS, VueJS, .Net Core, TailwindCSS, WordPress
 * DB: PostgreSQL, MariaDB/MySQL, Redis, SQL Server
 * Misc: AWS, GCP, GSuite, Nginx, CI/CD, Multipass, Docker, Raspberry Pi
+
+---
 
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&theme=radical" align="left" height="168" />
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="right" height="168" />
