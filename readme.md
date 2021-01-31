@@ -2,11 +2,11 @@
   <a href="https://twitter.com/riipandi" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/riipandi?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.buymeacoffee.com/ars" title="Buy Me A Coffee" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge" alt="Buy Me A Coffee" />
-  </a>
   <a href="https://www.youtube.com/channel/UClJJ1AGD5ycBduz4B-VcINA" target="_blank" rel="noopener noreferrer">
     <img alt="Youtube Channel" src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.buymeacoffee.com/ars" title="Buy Me A Coffee" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge" alt="Buy Me A Coffee" />
   </a>
   <a href="https://github.com/sponsors/riipandi" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
