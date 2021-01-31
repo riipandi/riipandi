@@ -1,10 +1,4 @@
 <p>
-  <a href="https://github.com/sponsors/riipandi" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
-  </a>
-  <!--a href="https://dev.to/aris" target="_blank" rel="noopener noreferrer">
-    <img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
-  </a-->  
   <a href="https://twitter.com/riipandi" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/riipandi?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -14,8 +8,11 @@
   <a href="https://www.youtube.com/channel/UClJJ1AGD5ycBduz4B-VcINA" target="_blank" rel="noopener noreferrer">
     <img alt="Youtube Channel" src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  <a href="https://github.com/sponsors/riipandi" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+  </a>
   <a href="https://dev.to/aris" target="_blank" rel="noopener noreferrer">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aris Ripandi's DEV Community Profile" height="30" width="30">
+    <img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
   </a>
 </p>
 
