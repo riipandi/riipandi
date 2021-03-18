@@ -16,7 +16,7 @@
   </a>
 </p>
 
-Hi, 👋 I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
+Hi, 👋  I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
 I also an educator and tech enthusiast. I love to explore various things and I really enjoy the teaching/learning cycle.
 Mostly coding in PHP.
 
