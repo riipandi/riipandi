@@ -16,8 +16,8 @@
   </a>
 </p>
 
-Hi there 👋, I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
-I also an educator and tech enthusiast. I love to exploring various things and I really enjoy the teaching/learning cycle.
+Hi, 👋  I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
+I also an educator and tech enthusiast. I love to explore various things and I really enjoy the teaching/learning cycle.
 Mostly coding in PHP.
 
 * Stack: Laravel, Spring Boot, Flask, ReactJS, VueJS, .Net Core, TailwindCSS, WordPress
