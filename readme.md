@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw" target="_blank" rel="noopener noreferrer">
     <img alt="Youtube Channel" src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://karyakarsa.com/aris" title="Buy Me A Coffee" target="_blank" rel="noopener noreferrer">
+  <a href="https://karyakarsa.com/aris/rewards" title="Buy Me A Coffee" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge" alt="Buy Me A Coffee" />
   </a>
   <a href="https://github.com/sponsors/riipandi" target="_blank" rel="noopener noreferrer">
