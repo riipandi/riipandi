@@ -16,32 +16,14 @@
   </a>
 </p>
 
-Hi, 👋  I'm Aris. I'm an experienced full-stack developer with deep interest in modern web development.
-I also an educator and tech enthusiast. I love to explore various things and I really enjoy the teaching/learning cycle.
-Mostly coding in PHP.
+Hi, 👋  I'm Aris. I'm a full-stack web developer, educator and tech enthusiast with a deep interest in modern web development.
+I love to explore various things and I really enjoy the teaching/learning cycle. Mostly coding in PHP.
 
-* Stack: Laravel, Spring Boot, Flask, ReactJS, VueJS, .Net Core, TailwindCSS, WordPress
-* DB: PostgreSQL, MariaDB/MySQL, Redis, SQL Server
-* Misc: AWS, GCP, GSuite, Nginx, CI/CD, Multipass, Docker, Raspberry Pi
+* Favorite Stack: Laravel, Spring Boot, React, Tailwind CSS, WordPress
+* Databases: PostgreSQL, MariaDB/MySQL, Redis, Microsoft SQL Server
+* Misc: AWS, GCP, Google Workspace, Nginx, Docker, Raspberry Pi
 
 ---
 
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&theme=radical" align="left" height="168" />
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="168" />
-
-<!--
-### Hi there 👋
-
-**riipandi/riipandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
