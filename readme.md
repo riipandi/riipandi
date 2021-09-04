@@ -18,7 +18,7 @@
 
 > Hi, 👋  I'm Aris, a full-stack web developer, educator and tech enthusiast with deep interest in modern web development.
 
-I love to explore various things and I really enjoy the teaching or learning cycle. Mostly coding in PHP.
+I love to explore various things and I really enjoy the teaching or learning cycle.
 
 * Favorite Stack: Laravel, Spring Boot, React, Tailwind CSS, WordPress
 * Databases: PostgreSQL, MariaDB/MySQL, Redis, Microsoft SQL Server
