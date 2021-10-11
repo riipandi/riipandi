@@ -16,15 +16,9 @@
   </a>
 </p>
 
-> Hi, 👋  I'm Aris, a full-stack web developer, educator and tech enthusiast with deep interest in modern web development.
-
-I love to explore various things and I really enjoy the teaching or learning cycle.
-
-* Favorite Stack: Laravel, Spring Boot, React, Tailwind CSS, WordPress
-* Databases: PostgreSQL, MariaDB/MySQL, Redis, Microsoft SQL Server
-* Misc: AWS, GCP, Google Workspace, Nginx, Docker, Raspberry Pi
-
 ---
+
+> Hi, 👋  I'm Aris, a full-stack web developer, educator and tech enthusiast with deep interest in modern web development.
 
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&theme=radical" align="left" height="168" />
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=riipandi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="168" />
