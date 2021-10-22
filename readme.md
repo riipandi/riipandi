@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aris Ripandi"> -->
 
-Hi, 👋  I'm a full-stack web developer, educator and open source enthusiast with deep interest in modern web development. [<a href="https://time.is/id/UTC-7" target="_blank" rel="noopener noreferrer">UTC+7</a>]
+Hi, 👋 I'm a full-stack web developer, educator and open source enthusiast. Always interest in modern web development. [<a href="https://time.is/id/UTC-7" target="_blank" rel="noopener noreferrer">UTC+7</a>]
 
 #### Get connected:
 
