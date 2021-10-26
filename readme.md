@@ -4,7 +4,7 @@ Hi, 👋 I'm Aris, a full-stack web developer, educator and open source enthusia
 
 Always interest in modern web development.
 
-Timezone in : <a href="https://time.is/id/UTC-7" target="_blank" rel="noopener noreferrer">UTC+7</a>
+Timezone in : <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
 
 #### Get connected:
 
