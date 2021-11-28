@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aris Ripandi"> -->
 
-Hi, 👋  I'm Aris, a full-stack web developer, educator and open source enthusiast.
+Hi, 👋  &nbsp;I'm Aris, a full-stack web developer, educator and open source enthusiast.
 
 Always interest in modern web development.
 
