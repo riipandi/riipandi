@@ -13,7 +13,7 @@ Timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener noref
 [![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
 [![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
 [![Instagram Badge](https://img.shields.io/badge/-@riipandi-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/riipandi)](https://www.instagram.com/riipandi)
-[![Website Badge](https://img.shields.io/badge/-aris.web.id-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://aris.web.id/)](https://aris.web.id/)
+[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi)
 [![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat-square)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
 
