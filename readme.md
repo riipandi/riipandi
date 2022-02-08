@@ -2,11 +2,14 @@
 
 Hi, 👋  &nbsp;I'm Aris, a full-stack web developer, educator and open source enthusiast.
 
-Always interested in modern web development.
+Always interested in modern web development and cloud computing.
 
-My works timeline: https://poly.work/aris
+Sometimes I write blog posts over at [my personal blogfolio](ripandis.com/blog).
 
-Timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
+You can see my works timeline at https://poly.work/aris
+
+TWork timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
+
 
 #### Get connected:
 
