@@ -19,6 +19,7 @@ Work timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener 
 [![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi)
 [![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat-square)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
+![](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat-square)
 
 <hr />
 
