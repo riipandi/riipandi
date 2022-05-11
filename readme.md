@@ -23,6 +23,14 @@ Work timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener 
 
 <hr />
 
+<a href="https://github-readme-stats.vercel.app/api?username=riipandi&theme=radical&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api?username=riipandi&theme=radical&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="128" alt="Github Stats" />
+</a>
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudz&theme=vue&hide_border=false&stroke=0000&background=FFFFFF&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudz&theme=vue&hide_border=false&stroke=0000&background=FFFFFF&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" align="left" height="128" alt="Github Streak Stats" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&theme=vue">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&theme=vue" align="left" height="128" alt="Github Stats" />
+</a>
