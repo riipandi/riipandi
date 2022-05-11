@@ -4,9 +4,9 @@ Hi, 👋  &nbsp;I'm Aris, a full-stack web developer, educator and open source e
 
 Always interested in modern web development and cloud computing.
 
-Sometimes I write blog posts over at [my personal blogfolio](https://ripandis.com/blog).
-
 You can see my works timeline at https://poly.work/aris
+
+Sometimes I write blog posts over at [jurnalog.com](https://jurnalog.com)
 
 Work timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
 
