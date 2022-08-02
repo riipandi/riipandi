@@ -10,8 +10,13 @@ Sometimes I write blog posts over at [jurnalog.com](https://jurnalog.com)
 
 Work timezone in: <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
 
+### Contact detail:
 
-#### Get connected:
+```sh
+npx riipandi
+```
+
+### Get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
 [![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
