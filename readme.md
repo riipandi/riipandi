@@ -11,7 +11,7 @@ _What I am working on:_
 -   Previously I work as a software engineer at [FlowyTeam](https://www.flowyteam.com/), a B2B SaaS focused on OKRs and Projects management tools.
 -   On the side, I am also working on [Otentik Authenticator](https://otentik.app/), an Open Source Google Authenticator-compatible application.
 -   I maintain OSS projects: [Laravel OptiKey](https://github.com/riipandi/laravel-optikey), [PHP Metabase](https://github.com/riipandi/php-metabase), [Packagist Mirror Site](https://packagist.pages.dev/), and [more](https://github.com/riipandi?tab=repositories&q=&type=source).
--   You can see the timeline of my work at <https://poly.work/aris>
+-   You can see the timeline of my work at [Polywork](https://poly.work/aris), and my resume at [LinkedIn](https://www.linkedin.com/in/aris-ripandi/).
 -   Oh, and one last thing: I have a [personal website](https://ripandis/) and a technical [blog](https://jurnalog.com/).
 
 _What I am interested in:_
@@ -27,7 +27,7 @@ npx riipandi
 
 > My work time zone is <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
 
----
+<!-- ---
 
 #### Get connected:
 
@@ -37,8 +37,7 @@ npx riipandi
 [![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
 [![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat-square)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
 ![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat-square)
-
-<!-- [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi) -->
+[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi) -->
 
 <!-- ---
 
