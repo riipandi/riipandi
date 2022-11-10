@@ -8,7 +8,7 @@ _What I am working on:_
 
 <!-- -   I am currently a Senior Product Engineer at [Zero One Group](https://zero-one-group.com/technology/), a digital agency based in Indonesia. -->
 
--   Previously I work as a software engineer at [FlowyTeam](https://www.flowyteam.com/), a B2B SaaS focused on OKRs and KPIs, and Projects management tools.
+-   Previously I work as a software engineer at [FlowyTeam](https://www.flowyteam.com/), a B2B SaaS focused on OKRs and Projects management tools.
 -   On the side, I am also working on [Otentik Authenticator](https://otentik.app/), an Open Source Google Authenticator-compatible application.
 -   I maintain OSS projects: [Laravel OptiKey](https://github.com/riipandi/laravel-optikey), [PHP Metabase](https://github.com/riipandi/php-metabase), [Packagist Mirror Site](https://packagist.pages.dev/), and [more](https://github.com/riipandi?tab=repositories&q=&type=source).
 -   You can see the timeline of my work at <https://poly.work/aris>
