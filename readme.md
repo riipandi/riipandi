@@ -16,8 +16,8 @@ _What I am working on:_
 
 _What I am interested in:_
 
--   My domains of expertise are modern web development, PHP | JavaScript | TypeScript full-stack development, and application design.
--   In my spare time, I also like to learn about: Rust programming, Golang programming, cloud computing related, and mentoring people.
+-   My domains of expertise are: PHP | JavaScript | TypeScript full-stack development, and application design.
+-   In my spare time, I also like to learn about: Rust & Go programming, cloud computing related, and mentoring people.
 
 #### Contact detail:
 
