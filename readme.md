@@ -25,7 +25,7 @@ _What I am interested in:_
 npx riipandi
 ```
 
-> My work time zone is <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">UTC+7</a>
+> My work time zone is Asia/Jakarta <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
 
 <!-- ---
 
