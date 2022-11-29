@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aris Ripandi"> -->
 
-## 👋 &nbsp;Hi, I'm Aris.
+## 👋 &nbsp;Hi, I'm Aris Ripandi (ris)
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
