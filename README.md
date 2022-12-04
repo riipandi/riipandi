@@ -47,4 +47,4 @@ npx riipandi
 
 ---
 
-<sub>🤫 Psst! You always can [support my work here](https://github.com/sponsors/riipandi).</sub>
+<sub>🤫 Psst! You can [support my work here](https://github.com/sponsors/riipandi).</sub>
