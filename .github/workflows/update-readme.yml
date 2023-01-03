@@ -15,6 +15,7 @@ concurrency:
 jobs:
   publish-readme:
     runs-on: ubuntu-latest
+    name: Generate README profile
     steps:
     - uses: actions/checkout@v3
       with:
@@ -34,8 +35,8 @@ jobs:
         fi
   update-readme-with-blog:
     needs: [publish-readme]
-    name: Populate README with latest blog posts
     runs-on: ubuntu-latest
+    name: Update latest blog posts
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
