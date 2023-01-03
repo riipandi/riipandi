@@ -15,7 +15,7 @@ _What I am working on:_
 
 _What I am interested in:_
 
--   My domains of expertise are: PHP | JavaScript | TypeScript full-stack development, and application design.
+-   My domains of expertise are: ~~_PHP_~~ | JavaScript | TypeScript full-stack development, and application design.
 -   In my spare time, I also like to learn about: Rust & Go programming, cloud computing related, and mentoring people.
 
 #### Contact detail:
