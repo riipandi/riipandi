@@ -1,12 +1,14 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aris Ripandi"> -->
 
-## 👋 &nbsp;Hi, I'm Aris Ripandi (ris)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" /> &nbsp;Hi, I'm Aris Ripandi (ris)
 
-![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat-square)
-[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
-[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
-[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi)
+![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
+[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
+[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40ris-blueviolet?style=flat)](https://fosstodon.org/@ris)
+[![Website Badge](https://img.shields.io/badge/ripandis.com-4384ff?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
+[![Website Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://riipandi.medium.com/)
+[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi)
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
@@ -24,6 +26,11 @@ _What I am interested in:_
 -   My domains of expertise are: ~~_PHP_~~ | JavaScript | TypeScript full-stack development, and application design.
 -   In my spare time, I also like to learn about: Rust & Go programming, cloud computing related, and mentoring people.
 
+#### Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### Contact detail:
 
 ```sh
@@ -36,13 +43,13 @@ npx riipandi
 
 #### Get connected:
 
-[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
-[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
-[![Instagram Badge](https://img.shields.io/badge/-@riipandi-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/riipandi)](https://www.instagram.com/riipandi)
-[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat-square)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
-![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat-square)
-[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi) -->
+[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
+[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
+[![Instagram Badge](https://img.shields.io/badge/-@riipandi-D7008A?style=flat&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/riipandi)](https://www.instagram.com/riipandi)
+[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
+[![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
+![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
+[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi) -->
 
 <!-- ---
 
