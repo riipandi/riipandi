@@ -2,6 +2,12 @@
 
 ## 👋 &nbsp;Hi, I'm Aris Ripandi (ris)
 
+![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
+[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
+[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
+[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat-square)](https://github.com/sponsors/riipandi)
+
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
 _What I am working on:_
@@ -24,7 +30,7 @@ _What I am interested in:_
 npx riipandi
 ```
 
-> My work time zone is Asia/Jakarta <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
+> My work timezone is Asia/Jakarta <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
 
 <!-- ---
 
