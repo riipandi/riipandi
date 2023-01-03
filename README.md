@@ -29,6 +29,10 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
+- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
+- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
+- [Faktor Penting Branding Bisnis di Era Industri Digital](https://riipandi.medium.com/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
