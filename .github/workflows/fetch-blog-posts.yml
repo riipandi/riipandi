@@ -1,4 +1,4 @@
-name: Fetch latest blog posts
+name: Fetch blog posts
 on:
   schedule: # Runs every hour
     - cron: '0 * * * *'
@@ -9,7 +9,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "4"
