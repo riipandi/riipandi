@@ -7,7 +7,7 @@ on:
 permissions: read-all
 
 jobs:
-  sync:
+  repo-sync:
     runs-on: ubuntu-latest
     name: Sync Repo to GitLab
     steps:
