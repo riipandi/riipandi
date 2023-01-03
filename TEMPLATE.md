@@ -61,4 +61,4 @@ npx riipandi
 ---
 
 <sub>🤫 Psst! If you like my work you can support me via [GitHub sponsors](https://github.com/sponsors/riipandi).
-<br/>🤖 This README was generated using [teoxoy/profile-readme-stats]().</sub>
+<br/>🤖 This README was generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats).</sub>
