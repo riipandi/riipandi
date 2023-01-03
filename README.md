@@ -45,18 +45,6 @@ npx riipandi
 
 <!-- ---
 
-#### Get connected:
-
-[![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
-[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
-[![Instagram Badge](https://img.shields.io/badge/-@riipandi-D7008A?style=flat&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/riipandi)](https://www.instagram.com/riipandi)
-[![Website Badge](https://img.shields.io/badge/ripandis.com-blueviolet?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Youtube Subscriber](https://img.shields.io/youtube/channel/subscribers/UCwNN8WeUgXzqaSEjPNLuLmw?style=flat)](https://www.youtube.com/channel/UCwNN8WeUgXzqaSEjPNLuLmw)
-![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
-[![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi) -->
-
-<!-- ---
-
 <img src="https://github-readme-stats.vercel.app/api?username=riipandi&theme=radical&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="128" alt="Github Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riipandi&theme=vue&hide_border=false&stroke=0000&background=FFFFFF&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" align="left" height="128" alt="Github Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&theme=vue" align="left" height="128" alt="Github Stats" /> -->
