@@ -1,0 +1,42 @@
+{% macro connect() %}
+{% if config.extra.lists.connect is defined %}
+<!-- Connect list -->
+<div class="split-list">
+    <h3>Connect</h3>
+    <ul>
+        {% for item in config.extra.lists.connect %}
+        <li>
+            <a href="{{ item.url }}">{{ item.text }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}{# Connect #}
+{% endmacro connect %}
+
+{% macro social() %}
+{% if config.extra.lists.social is defined %}
+<!-- Social list -->
+<div class="split-list">
+    <h3>Social</h3>
+    <ul>
+        {% for item in config.extra.lists.social %}
+        <li>
+            <a href="{{ item.url }}">{{ item.text }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% else %}
+<!-- Social list -->
+<div class="split-list">
+    <h3>Social</h3>
+    <ul>
+        <li>
+            <a href="#">Social link?</a>
+        </li>
+    </ul>
+</div>
+{% endif %}{# Social #}
+</div>
+{% endmacro social %}

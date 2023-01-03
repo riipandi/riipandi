@@ -1,0 +1,25 @@
+{% extends "index.html" -%}
+
+{%- block title %}
+    <title>{{ section.title }} - {{ config.extra.author }}</title>
+{%- endblock title -%}
+
+{%- block intro -%}
+<div class="split-intro">
+    <span class="tagline">{{ section.title }}</span>
+</div>
+{%- endblock intro -%}
+
+{%- block bio -%}
+{%- endblock bio -%}
+
+{% block lists %}
+<div class="posts split-content-vertically-center">
+    <ul>
+        {%- for page in paginator.pages -%}
+        <li><a href="{{ page.permalink }}"><p>{{ page.title }} <span class="button__icon">→</span></p></a></li>
+        {%- endfor -%}
+        <li><a href="{{ config.base_url }}"><p>Go Home ↑</p></a></li>
+    </ul>
+</div>
+{% endblock lists %}

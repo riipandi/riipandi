@@ -1,0 +1,22 @@
+{% extends "index.html" -%}
+
+{%- block title %}
+    <title>{{ page.title }} - {{  config.title }}</title>
+{%- endblock title -%}
+
+{%- block intro -%}
+<div class="split-intro">
+    <span class="tagline">{{ page.title }}</span>
+</div>
+{%- endblock intro -%}
+
+{%- block bio -%}
+{%- endblock bio -%}
+
+{% block lists %}
+<div class="posts split-content-vertically-center">
+   {{ page.content | safe }}
+</div>
+
+<div><a href="{{ config.base_url }}/blog"><p>Back to the blog ↑</p></a></div>
+{% endblock lists %}

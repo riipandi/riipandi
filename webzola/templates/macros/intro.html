@@ -1,0 +1,11 @@
+{% macro intro() %}
+<div class="split-intro">
+    <h1> {{ config.extra.author }}</h1>
+    {% if config.extra.content.intro_tagline is defined %}
+    <span class="tagline"><strong class="bold-text">{{ config.extra.content.intro_tagline }}</strong></span>
+    {% else %}
+    <!-- Default tagline. Change me in `config.toml` -->
+    <span class="tagline">Designer. Stylist. Nomad.</span>
+    {% endif %}
+</div>
+{% endmacro intro %}
