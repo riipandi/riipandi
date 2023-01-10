@@ -48,8 +48,8 @@ npx riipandi
 
 #### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true)](https://s.id/1vBYf)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false&card_width=280)](https://s.id/1vBYA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true&card_width=280)](https://s.id/1vBYf)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false&card_width=380)](https://s.id/1vBYA)
 
 <!-- {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
