@@ -46,17 +46,14 @@ npx riipandi
 
 > My work timezone is Asia/Jakarta <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
 
-#### Most used languages across my projects:
+#### GitHub Stats:
 
-{{ LANGUAGE_TEMPLATE_START }}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true)](https://s.id/1vBYf)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false)](https://s.id/1vBYA)
+
+<!-- {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-<!-- ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=riipandi&theme=radical&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="left" height="128" alt="Github Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riipandi&theme=vue&hide_border=false&stroke=0000&background=FFFFFF&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" align="left" height="128" alt="Github Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&theme=vue" align="left" height="128" alt="Github Stats" /> -->
+{{ LANGUAGE_TEMPLATE_END }} -->
 
 ---
 
