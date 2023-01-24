@@ -12,8 +12,8 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **11** years ago. Since then I pushed **5503** commits,
-opened **13** issues, submitted **187** pull requests, received **249**
+Joined Github about **11** years ago. Since then I pushed **5552** commits,
+opened **13** issues, submitted **188** pull requests, received **249**
 stars across **101** personal projects and contributed to **39**
 public repositories.
 
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://riipandi.medium.com/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -55,14 +51,14 @@ npx riipandi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true&card_width=280)](https://s.id/1vBYf)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false&card_width=390)](https://s.id/1vBYA)
 
-<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162.9%25)
+<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162.7%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.7%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.8%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.7%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B13.9%25)
 ![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B11.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
  -->
 
 ---
