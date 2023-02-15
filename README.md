@@ -14,7 +14,7 @@ I am a software engineer, educator, and Open Source enthusiast. I spend my time 
 
 Joined Github about **11** years ago. Since then I pushed **5842** commits,
 opened **13** issues, submitted **195** pull requests, received **252**
-stars across **109** personal projects and contributed to **39**
+stars across **111** personal projects and contributed to **37**
 public repositories.
 
 _What I am working on:_
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://riipandi.medium.com/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -55,8 +51,8 @@ npx riipandi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true&card_width=280)](https://s.id/1vBYf)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false&card_width=390)](https://s.id/1vBYA)
 
-<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.7%25)
+<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.9%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.7%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14%25)
