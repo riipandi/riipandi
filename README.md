@@ -12,8 +12,8 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **11** years ago. Since then I pushed **5922** commits,
-opened **13** issues, submitted **198** pull requests, received **254**
+Joined Github about **11** years ago. Since then I pushed **5929** commits,
+opened **13** issues, submitted **199** pull requests, received **255**
 stars across **113** personal projects and contributed to **37**
 public repositories.
 
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://riipandi.medium.com/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
