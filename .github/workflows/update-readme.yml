@@ -43,5 +43,5 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
-          # feed_list: "https://dev.to/feed/aris,https://jurnalog.com/rss.xml"
-          feed_list: "https://jurnalog.com/rss.xml,https://medium.com/@riipandi/feed"
+          # feed_list: "https://dev.to/feed/aris,https://riipandi.hashnode.dev/rss.xml"
+          feed_list: "https://riipandi.hashnode.dev/rss.xml,https://medium.com/@riipandi/feed"

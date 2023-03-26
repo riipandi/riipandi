@@ -24,7 +24,7 @@ _What I am working on:_
 -   On the other side, I am also building [Otentik Authenticator](https://otentik.app/), an Open Source [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid)-compatible app.
 -   I maintain OSS projects: [Laravel OptiKey](https://github.com/riipandi/laravel-optikey), [PHP Metabase](https://github.com/riipandi/php-metabase), [Packagist Mirror Site](https://packagist.pages.dev/), and [more](https://github.com/riipandi?tab=repositories&q=&type=source).
 -   You can see the timeline of my work at [Polywork](https://poly.work/aris), and my resume on [LinkedIn](https://www.linkedin.com/in/aris-ripandi/).
--   Oh, and one last thing: I have a [personal website](https://ripandis.com/) and a technical [blog](https://jurnalog.com/).
+-   Oh, and one last thing: I have a [personal website](https://ripandis.com/) and a technical [blog](https://riipandi.hashnode.dev/).
 
 _What I am interested in:_
 
@@ -34,10 +34,11 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://medium.com/@riipandi/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
+
+-   [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://riipandi.hashnode.dev/building-macos-app-in-a-week-with-tauri-and-supabase)
+-   [Deploying Authorizer to Fly.io](https://riipandi.hashnode.dev/deploying-authorizer-to-fly-dot-io)
+-   [Simplify Your Web Development Stack [For Windows Users]](https://riipandi.hashnode.dev/simplify-your-web-development-stack-for-windows-users)
+-   [Faktor Penting Branding Bisnis di Era Industri Digital](https://medium.com/@riipandi/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
