@@ -14,4 +14,4 @@
 # @raycast.author Aris Ripandi
 # @raycast.authorURL https://github.com/riipandi
 
-code ~/.ssh/config
+vimr ~/.ssh/config
