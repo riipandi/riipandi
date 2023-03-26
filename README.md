@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40ris-blueviolet?style=flat)](https://fosstodon.org/@ris)
 [![Website Badge](https://img.shields.io/badge/ripandis.com-4384ff?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Website Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://riipandi.medium.com/)
+[![Website Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://medium.com/@riipandi/)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi)
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
@@ -34,10 +34,11 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
-- [Easy Way To Backup Your Data In GNU/Linux](https://jurnalog.com/easy-way-to-backup-your-data-in-gnulinux)
+
+-   [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://jurnalog.com/building-macos-app-in-a-week-with-tauri-and-supabase)
+-   [Deploying Authorizer to Fly.io](https://jurnalog.com/deploying-authorizer-to-fly-dot-io)
+-   [Simplify Your Web Development Stack [For Windows Users]](https://jurnalog.com/simplify-your-web-development-stack-for-windows-users)
+-   [Easy Way To Backup Your Data In GNU/Linux](https://jurnalog.com/easy-way-to-backup-your-data-in-gnulinux)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
