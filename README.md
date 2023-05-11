@@ -34,6 +34,10 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reset The Analytics](https://riipandi.hashnode.dev/reset-the-analytics)
+- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://riipandi.hashnode.dev/building-macos-app-in-a-week-with-tauri-and-supabase)
+- [Deploying Authorizer to Fly.io](https://riipandi.hashnode.dev/deploying-authorizer-to-fly-dot-io)
+- [Simplify Your Web Development Stack [For Windows Users]](https://riipandi.hashnode.dev/simplify-your-web-development-stack-for-windows-users)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
