@@ -12,7 +12,7 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **11** years ago. Since then I pushed **6193** commits,
+Joined Github about **11** years ago. Since then I pushed **6205** commits,
 opened **13** issues, submitted **253** pull requests, received **271**
 stars across **126** personal projects and contributed to **36**
 public repositories.
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reset The Analytics](https://riipandi.hashnode.dev/reset-the-analytics)
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://riipandi.hashnode.dev/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://riipandi.hashnode.dev/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://riipandi.hashnode.dev/simplify-your-web-development-stack-for-windows-users)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -62,7 +58,7 @@ npx riipandi
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B13.9%25)
 ![TSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e38c00&message=TSQL%EF%B8%B11.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.4%25)
  -->
 
 ---
