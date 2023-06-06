@@ -12,9 +12,9 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **11** years ago. Since then I pushed **6180** commits,
+Joined Github about **11** years ago. Since then I pushed **6188** commits,
 opened **13** issues, submitted **253** pull requests, received **271**
-stars across **126** personal projects and contributed to **36**
+stars across **126** personal projects and contributed to **35**
 public repositories.
 
 _What I am working on:_
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reset The Analytics](https://riipandi.hashnode.dev/reset-the-analytics)
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://riipandi.hashnode.dev/building-macos-app-in-a-week-with-tauri-and-supabase)
-- [Deploying Authorizer to Fly.io](https://riipandi.hashnode.dev/deploying-authorizer-to-fly-dot-io)
-- [Simplify Your Web Development Stack [For Windows Users]](https://riipandi.hashnode.dev/simplify-your-web-development-stack-for-windows-users)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
