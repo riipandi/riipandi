@@ -14,4 +14,4 @@
 # @raycast.author Aris Ripandi
 # @raycast.authorURL https://github.com/riipandi
 
-vimr ~/.aliases
+code ~/.aliases

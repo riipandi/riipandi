@@ -14,4 +14,4 @@
 # @raycast.author Aris Ripandi
 # @raycast.authorURL https://github.com/riipandi
 
-vimr /usr/local/etc/nginx/servers/default.conf
+code /usr/local/etc/nginx/servers/default.conf
