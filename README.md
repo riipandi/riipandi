@@ -12,9 +12,9 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **12** years ago. Since then I pushed **6619** commits,
+Joined Github about **12** years ago. Since then I pushed **6622** commits,
 opened **12** issues, submitted **244** pull requests, received **291**
-stars across **128** personal projects and contributed to **25**
+stars across **129** personal projects and contributed to **25**
 public repositories.
 
 _What I am working on:_
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://medium.com/@riipandi/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
-- [Membangun Motivasi Itu Penting](https://medium.com/@riipandi/membangun-motivasi-itu-penting-377cdb6c9da8?source=rss-fb74f4afc719------2)
-- [Linux Tak Lagi Kebal Malware](https://medium.com/@riipandi/linux-tak-lagi-kebal-malware-4ea679042cbf?source=rss-fb74f4afc719------2)
-- [DBMS Dan Keuntungannya](https://medium.com/@riipandi/dbms-dan-keuntungannya-ef5b9df51ee1?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
