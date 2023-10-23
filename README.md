@@ -12,7 +12,7 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **12** years ago. Since then I pushed **6999** commits,
+Joined Github about **12** years ago. Since then I pushed **7003** commits,
 opened **12** issues, submitted **248** pull requests, received **292**
 stars across **132** personal projects and contributed to **25**
 public repositories.
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://medium.com/@riipandi/faktor-penting-branding-bisnis-di-era-industri-digital-e49bcface3da?source=rss-fb74f4afc719------2)
-- [Membangun Motivasi Itu Penting](https://medium.com/@riipandi/membangun-motivasi-itu-penting-377cdb6c9da8?source=rss-fb74f4afc719------2)
-- [Linux Tak Lagi Kebal Malware](https://medium.com/@riipandi/linux-tak-lagi-kebal-malware-4ea679042cbf?source=rss-fb74f4afc719------2)
-- [DBMS Dan Keuntungannya](https://medium.com/@riipandi/dbms-dan-keuntungannya-ef5b9df51ee1?source=rss-fb74f4afc719------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -59,9 +55,9 @@ npx riipandi
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.6%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.7%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14.1%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B13.9%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B11.8%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B11.9%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
  -->
 
