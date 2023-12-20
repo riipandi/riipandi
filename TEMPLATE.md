@@ -4,10 +4,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
 [![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
-[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40ris-blueviolet?style=flat)](https://fosstodon.org/@ris)
+[![Twitter Badge](https://img.shields.io/badge/-%40riipandi-1ca0f1?style=flat&labelColor=0890f0&logo=twitter&logoColor=white)](https://twitter.com/riipandi)
 [![Website Badge](https://img.shields.io/badge/ripandis.com-4384ff?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Website Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://medium.com/@riipandi/)
+[![Medium Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://medium.com/@riipandi/)
+[![Keybase Badge](https://img.shields.io/badge/-%40riipandi-3663ea?style=flat&labelColor=182d6e&logo=keybase&logoColor=white)](https://keybase.io/riipandi)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi)
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
