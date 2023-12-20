@@ -4,15 +4,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
 [![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
-[![Twitter Badge](https://img.shields.io/badge/-@riipandi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riipandi)](https://twitter.com/riipandi)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40ris-blueviolet?style=flat)](https://fosstodon.org/@ris)
+[![Twitter Badge](https://img.shields.io/badge/-%40riipandi-1ca0f1?style=flat&labelColor=0890f0&logo=twitter&logoColor=white)](https://twitter.com/riipandi)
 [![Website Badge](https://img.shields.io/badge/ripandis.com-4384ff?style=flat&logo=appveyor&logoColor=white&link=https://ripandis.com/)](https://ripandis.com/)
-[![Website Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://medium.com/@riipandi/)
+[![Medium Badge](https://img.shields.io/badge/Medium-2e3030?style=flat&logo=medium&logoColor=white)](https://medium.com/@riipandi/)
+[![Keybase Badge](https://img.shields.io/badge/-%40riipandi-3663ea?style=flat&labelColor=182d6e&logo=keybase&logoColor=white)](https://keybase.io/riipandi)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi)
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **12** years ago. Since then I pushed **7337** commits,
+Joined Github about **12** years ago. Since then I pushed **7338** commits,
 opened **13** issues, submitted **254** pull requests, received **309**
 stars across **135** personal projects and contributed to **18**
 public repositories.
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://dev.to/aris/faktor-penting-branding-bisnis-di-era-industri-digital-43ho)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
