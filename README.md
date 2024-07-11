@@ -12,9 +12,9 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **12** years ago. Since then I pushed **7077** commits,
-opened **18** issues, submitted **235** pull requests, received **370**
-stars across **131** personal projects and contributed to **27**
+Joined Github about **12** years ago. Since then I pushed **7073** commits,
+opened **18** issues, submitted **235** pull requests, received **372**
+stars across **130** personal projects and contributed to **29**
 public repositories.
 
 _What I am working on:_
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://dev.to/aris/faktor-penting-branding-bisnis-di-era-industri-digital-43ho)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -55,7 +51,7 @@ npx riipandi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true&card_width=280)](https://s.id/1vBYf)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riipandi&hide_border=true&hide_title=true&show_icons=false&locale=en&theme=vue&text_bold=false&card_width=390)](https://s.id/1vBYA)
 
-<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162.1%25)
+<!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B162%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.6%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.7%25)
