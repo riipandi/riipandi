@@ -15,4 +15,8 @@
 # @raycast.author Aris Ripandi
 # @raycast.authorURL https://github.com/riipandi
 
-whois $1
+# whois $1
+# curl -s "https://api.rna.id/api/domain-whois?domain=$1" | jq -r '.data' | sed 's/\\r\\n/\n/g'
+
+# https://github.com/ducaale/xh
+xh get "https://api.rna.id/api/domain-whois?domain=$1" | jq -r '.data' | sed 's/\\r\\n/\n/g'
