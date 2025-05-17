@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aris Ripandi"> -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" /> &nbsp;Hi, I'm Aris Ripandi (ris)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" /> &nbsp;Hi, I'm Aris Ripandi (AR)
 
 ![Profile views](https://komarev.com/ghpvc/?username=riipandi&color=blueviolet&style=flat)
 [![Linkedin Badge](https://img.shields.io/badge/-aris--ripandi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aris-ripandi/)](https://www.linkedin.com/in/aris-ripandi)
