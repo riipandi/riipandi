@@ -13,7 +13,7 @@
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
 Joined Github about **14** years ago. Since then I pushed **7983** commits,
-opened **21** issues, submitted **338** pull requests, received **635**
+opened **21** issues, submitted **338** pull requests, received **636**
 stars across **123** personal projects and contributed to **16**
 public repositories.
 
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
-- [Faktor Penting Branding Bisnis di Era Industri Digital](https://dev.to/aris/faktor-penting-branding-bisnis-di-era-industri-digital-43ho)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
