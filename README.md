@@ -12,7 +12,7 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **14** years ago. Since then I pushed **8578** commits,
+Joined Github about **14** years ago. Since then I pushed **8579** commits,
 opened **21** issues, submitted **339** pull requests, received **645**
 stars across **126** personal projects and contributed to **14**
 public repositories.
@@ -34,10 +34,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refleksi Seorang Frontend Engineer Mencari Pustaka Antarmuka yang Ideal](https://blog.zero-one-group.com/refleksi-seorang-frontend-engineer-mencari-pustaka-antarmuka-yang-ideal-e72c91110e81?source=rss-fb74f4afc719------2)
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
