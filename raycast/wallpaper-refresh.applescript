@@ -1,4 +1,4 @@
-#!/usr/bin/osascript
+#!/usr/bin/env osascript
 
 # @raycast.title Refresh Wallpaper
 # @raycast.author Caleb Stauffer

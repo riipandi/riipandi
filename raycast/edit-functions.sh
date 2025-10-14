@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Required parameters:
 # @raycast.schemaVersion 1
@@ -14,4 +14,4 @@
 # @raycast.author Aris Ripandi
 # @raycast.authorURL https://github.com/riipandi
 
-code ~/.functions
+code ~/.zsh/functions

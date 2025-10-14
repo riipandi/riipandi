@@ -1,4 +1,4 @@
-#!/usr/bin/osascript
+#!/usr/bin/env osascript
 
 # Required parameters:
 # @raycast.schemaVersion 1
