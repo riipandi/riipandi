@@ -56,9 +56,12 @@ jobs:
           key: lume-${{ github.run_id }}
           restore-keys:
             lume-
+      - name: Debug Pages Outputs
+        run: |
+          echo "All outputs from pages step:"
+          echo "base_url: ${{ steps.pages.outputs.base_url }}"
       - name: Build the site
         run: |
-          echo "Base URL: ${{ steps.pages.outputs.base_url }}"
           deno task lume --location="${{ steps.pages.outputs.base_url }}/"
       - name: Cache save
         id: cache-save

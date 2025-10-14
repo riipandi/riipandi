@@ -5,8 +5,8 @@ name: Update README file
 on:
   schedule: # Runs every 12 hours
     - cron: "0 */12 * * *"
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
   workflow_dispatch:
 
 # Cancel in progress workflows on pull_requests.
