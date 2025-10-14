@@ -1,0 +1,46 @@
+# Global gitignore: ~/.gitignore
+# ------------------------------
+# Common ignored files
+# ------------------------------
+/ /
+._*
+.cache/
+.DS_Store
+.DS_Store?
+.eslintcache
+.env*
+!.env.example
+.grunt
+.idea
+.java-version
+.lock-wscript
+.node_repl_history
+.npm
+.nyc_output
+.pnp.js
+.pnp/
+.Spotlight-V100
+.Trashes
+.yarn-integrity
+*.log
+*.out
+*.pid
+*.pid.lock
+*.pyc
+*.seed
+*.tgz
+bower_components
+build/Release
+conf/application.conf
+coverage
+Desktop.ini
+jspm_packages/
+lib-cov
+node_modules/
+npm-debug.log*
+pids
+Thumbs.db
+venv/
+yarn-debug.log*
+yarn-error.log
+yarn-error.log*
