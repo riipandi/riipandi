@@ -20,7 +20,8 @@ public repositories.
 _What I am working on:_
 
 - I am currently working as an Engineering Manager at [Zero One Group](https://zero-one-group.com), a digital
-  agency based in Indonesia. Previously, I was a Senior Product Engineer at the same company.
+  agency based in Indonesia.
+- Previously, I was a Senior Product Engineer at [Zero One Group](https://zero-one-group.com).
 - Former software engineer at [FlowyTeam](https://www.flowyteam.com/), B2B SaaS focused on OKRs and Projects management tools.
 - On the other side, I am also building [Otentik Authenticator](https://github.com/riipandi/otentik-authenticator), an Open Source
   [Google Authenticator](https://support.google.com/accounts/answer/1066447)-compatible app.
