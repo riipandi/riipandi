@@ -17,11 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate README profile
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.2
+      uses: teoxoy/profile-readme-stats@v3
       with:
         token: ${{ secrets.GH_TOKEN }}
     - name: Update README.md
@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update latest blog posts
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "4"

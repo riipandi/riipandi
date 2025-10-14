@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Sync Repo to GitLab
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
       with:
         fetch-depth: 0
     - uses: shiqianwei0508/git-repo-sync-gitlab@v0.3.1
