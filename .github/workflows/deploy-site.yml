@@ -20,6 +20,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   # Single deploy job since we're just deploying
   deploy:
@@ -30,15 +34,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          submodules: recursive
+          fetch-depth: 0
       - name: Install Deno
         uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
-      - name: Build the site
-        run: |
-          deno task lume --location="${{ steps.pages.outputs.base_url }}/"
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Build the site
+        run: |
+          deno install --frozen --allow-scripts=npm:sharp
+          deno task lume --location="${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
