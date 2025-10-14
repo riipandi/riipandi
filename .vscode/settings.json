@@ -4,9 +4,6 @@
   "deno.lint": true,
   "typescript.enablePromptUseWorkspaceTsdk": false,
   "editor.defaultFormatter": "denoland.vscode-deno",
-  "css.customData": [
-    ".vscode/tailwind.json"
-  ],
   "files.associations": {
     "*.css": "css"
   },
