@@ -56,7 +56,6 @@ information available at:
 ```sh
 npx riipandi
 ```
-https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true
 
 > My work timezone is Asia/Jakarta
 > <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
