@@ -30,6 +30,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Build the site
+        run: |
+          deno task lume --location="${{ steps.pages.outputs.base_url }}/"
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
