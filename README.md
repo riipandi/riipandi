@@ -12,7 +12,7 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **14** years ago. Since then I pushed **8953** commits,
+Joined Github about **14** years ago. Since then I pushed **8955** commits,
 opened **22** issues, submitted **347** pull requests, received **649**
 stars across **126** personal projects and contributed to **17**
 public repositories.
@@ -60,7 +60,6 @@ information available at:
 ```sh
 npx riipandi
 ```
-https://github-readme-stats.vercel.app/api/top-langs/?username=riipandi&layout=compact&hide_border=true
 
 > My work timezone is Asia/Jakarta
 > <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
