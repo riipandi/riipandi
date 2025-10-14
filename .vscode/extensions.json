@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "denoland.vscode-deno",
+    "bradlc.vscode-tailwindcss",
+    "darkriszty.markdown-table-prettify",
+    "EditorConfig.EditorConfig"
+  ]
+}

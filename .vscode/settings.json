@@ -1,0 +1,81 @@
+{
+  "biome.enabled": false,
+  "deno.enable": true,
+  "deno.lint": true,
+  "typescript.enablePromptUseWorkspaceTsdk": false,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "css.customData": [
+    ".vscode/tailwind.json"
+  ],
+  "files.associations": {
+    "*.css": "css"
+  },
+  "search.exclude": {
+    "**/.husky": true,
+    "**/.next": true,
+    "**/.output": true,
+    "**/dist": true,
+    "**/stub": true
+  },
+  "tailwindCSS.experimental.classRegex": [
+    // @ref: https://www.tailwind-variants.org/docs/getting-started
+    // @ref: https://github.com/paolotiu/tailwind-intellisense-regex-list
+    [
+      "(?:cn|cx|cva|clx|tv)\\(([^;]*)[\\);]",
+      "[`'\"`]([^'\"`;]*)[`'\"`]"
+    ],
+    [
+      "classList={{([^;]*)}}",
+      "\\s*?[\"'`]([^\"'`]*).*?:"
+    ]
+  ],
+  "tailwindCSS.files.exclude": [
+    "**/.github/**",
+    "**/*.{md,js,ts,json}"
+  ],
+  "[astro]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports.biome": "explicit"
+    },
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "darkriszty.markdown-table-prettify"
+  },
+  "[tailwindcss]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports.biome": "explicit"
+    },
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports.biome": "explicit"
+    },
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  }
+}

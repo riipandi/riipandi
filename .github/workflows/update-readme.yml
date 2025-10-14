@@ -1,7 +1,7 @@
 name: Update README file
 on:
   schedule: # Runs every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
   push:
     branches: [main]
   workflow_dispatch:
@@ -17,22 +17,22 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate README profile
     steps:
-    - uses: actions/checkout@v5
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v3
-      with:
-        token: ${{ secrets.GH_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README.md"
-        git push
-        fi
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "Update README.md"
+          git push
+          fi
   update-readme-with-blog:
     needs: [publish-readme]
     runs-on: ubuntu-latest

@@ -10,26 +10,43 @@
 [![Keybase Badge](https://img.shields.io/badge/-%40riipandi-3663ea?style=flat&labelColor=182d6e&logo=keybase&logoColor=white)](https://keybase.io/riipandi)
 [![Github Sponsor](https://img.shields.io/static/v1?color=26B643&label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat)](https://github.com/sponsors/riipandi)
 
-I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
+I am a software engineer, educator, and Open Source enthusiast. I spend my time
+building things.
 
-Joined Github about **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits,
-opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}**
-stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**
-public repositories.
+Joined Github about **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{
+COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{
+PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{
+REPOSITORIES }}** personal projects and contributed to **{{
+REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 _What I am working on:_
 
--   I am currently a Senior Product Engineer at [Zero One Group](https://zero-one-group.com/technology/), a digital agency based in Indonesia.
--   Previously I work as a software engineer at [FlowyTeam](https://www.flowyteam.com/), B2B SaaS focused on OKRs and Projects management tools.
--   On the other side, I am also building [Otentik Authenticator](https://otentik.app/), an Open Source [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid)-compatible app.
--   I maintain OSS projects: [Laravel OptiKey](https://github.com/riipandi/laravel-optikey), [PHP Metabase](https://github.com/riipandi/php-metabase), [Packagist Mirror Site](https://packagist.pages.dev/), and [more](https://github.com/riipandi?tab=repositories&q=&type=source).
--   You can see the timeline of my work at [Polywork](https://poly.work/aris), and my resume on [LinkedIn](https://www.linkedin.com/in/aris-ripandi/).
--   Oh, and one last thing: I have a [personal website](https://ripandis.com/) and a technical [blog](https://riipandi.hashnode.dev/).
+- I am currently a Senior Product Engineer at
+  [Zero One Group](https://zero-one-group.com/technology/), a digital agency
+  based in Indonesia.
+- Previously I work as a software engineer at
+  [FlowyTeam](https://www.flowyteam.com/), B2B SaaS focused on OKRs and Projects
+  management tools.
+- On the other side, I am also building
+  [Otentik Authenticator](https://otentik.app/), an Open Source
+  [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid)-compatible
+  app.
+- I maintain OSS projects:
+  [Laravel OptiKey](https://github.com/riipandi/laravel-optikey),
+  [PHP Metabase](https://github.com/riipandi/php-metabase),
+  [Packagist Mirror Site](https://packagist.pages.dev/), and
+  [more](https://github.com/riipandi?tab=repositories&q=&type=source).
+- You can see the timeline of my work at [Polywork](https://poly.work/aris), and
+  my resume on [LinkedIn](https://www.linkedin.com/in/aris-ripandi/).
+- Oh, and one last thing: I have a [personal website](https://ripandis.com/) and
+  a technical [blog](https://riipandi.hashnode.dev/).
 
 _What I am interested in:_
 
--   My domains of expertise are: ~~_PHP_~~ | JavaScript | TypeScript full-stack development, and application design.
--   In my spare time, I also like to learn about: Rust & Go programming, cloud computing related, and mentoring people.
+- My domains of expertise are: ~~_PHP_~~ | JavaScript | TypeScript full-stack
+  development, and application design.
+- In my spare time, I also like to learn about: Rust & Go programming, cloud
+  computing related, and mentoring people.
 
 #### Latest Blog Posts:
 
@@ -38,13 +55,16 @@ _What I am interested in:_
 
 #### Contact detail:
 
-PGP Public Key: [`2874 4492 87E9 BDF3`](https://keybase.io/riipandi/pgp_keys.asc). More information available at:
+PGP Public Key:
+[`2874 4492 87E9 BDF3`](https://keybase.io/riipandi/pgp_keys.asc). More
+information available at:
 
 ```sh
 npx riipandi
 ```
 
-> My work timezone is Asia/Jakarta <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
+> My work timezone is Asia/Jakarta
+> <a href="https://time.is/UTC+7" target="_blank" rel="noopener noreferrer">(UTC+7)</a>
 
 #### GitHub Stats:
 
@@ -57,5 +77,7 @@ npx riipandi
 
 ---
 
-<sub>🤫 Psst! If you like my work you can support me via [GitHub sponsors](https://github.com/sponsors/riipandi).
-<br/>🤖 This README was generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats).</sub>
+<sub>🤫 Psst! If you like my work you can support me via
+[GitHub sponsors](https://github.com/sponsors/riipandi).
+<br/>🤖 This README was generated using
+[teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats).</sub>
