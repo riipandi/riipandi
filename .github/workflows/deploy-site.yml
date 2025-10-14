@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy gh-pages
 
@@ -25,11 +27,7 @@ defaults:
     shell: bash
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build-site:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -43,15 +41,41 @@ jobs:
           deno-version: v2.x
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Install dependencies
+        run: |
+          [[ -f deno.lock ]] && deno install --frozen --allow-scripts=npm:sharp || true
+      - name: Configure Git
+        run: |
+          git config core.quotepath false
+      - name: Cache restore
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/_cache
+          key: lume-${{ github.run_id }}
+          restore-keys:
+            lume-
       - name: Build the site
         run: |
-          deno install --frozen --allow-scripts=npm:sharp
           deno task lume --location="${{ steps.pages.outputs.base_url }}/"
+      - name: Cache save
+        id: cache-save
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/_cache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          # Upload static `website` directory
-          path: "./.output/"
+          path: './.output/'
+
+  deploy-site:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-site
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
