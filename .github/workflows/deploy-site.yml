@@ -57,6 +57,7 @@ jobs:
             lume-
       - name: Build the site
         run: |
+          echo "Base URL: ${{ steps.pages.outputs.base_url }}"
           deno task lume --location="${{ steps.pages.outputs.base_url }}/"
       - name: Cache save
         id: cache-save
