@@ -12,8 +12,8 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **15** years ago. Since then I pushed **11624** commits,
-opened **25** issues, submitted **447** pull requests, received **778**
+Joined Github about **15** years ago. Since then I pushed **11639** commits,
+opened **25** issues, submitted **448** pull requests, received **778**
 stars across **125** personal projects and contributed to **20**
 public repositories.
 
@@ -45,10 +45,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refleksi Seorang Frontend Engineer Mencari Pustaka Antarmuka yang Ideal](https://blog.zero-one-group.com/refleksi-seorang-frontend-engineer-mencari-pustaka-antarmuka-yang-ideal-e72c91110e81?source=rss-fb74f4afc719------2)
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -71,7 +67,7 @@ npx riipandi
 
 <!-- ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B157.2%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B19.7%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B17.9%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B18%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B16.2%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B15.5%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B14.2%25)
