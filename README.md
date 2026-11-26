@@ -12,8 +12,8 @@
 
 I am a software engineer, educator, and Open Source enthusiast. I spend my time building things.
 
-Joined Github about **15** years ago. Since then I pushed **14207** commits,
-opened **28** issues, submitted **460** pull requests, received **784**
+Joined Github about **15** years ago. Since then I pushed **14292** commits,
+opened **28** issues, submitted **462** pull requests, received **785**
 stars across **133** personal projects and contributed to **13**
 public repositories.
 
@@ -45,10 +45,6 @@ _What I am interested in:_
 #### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refleksi Seorang Frontend Engineer Mencari Pustaka Antarmuka yang Ideal](https://blog.zero-one-group.com/refleksi-seorang-frontend-engineer-mencari-pustaka-antarmuka-yang-ideal-e72c91110e81?source=rss-fb74f4afc719------2)
-- [I&#39;m building a macOS app in a week with Tauri and Supabase.](https://dev.to/aris/im-building-a-macos-app-in-a-week-with-tauri-and-supabase-4i4n)
-- [Deploying Authorizer to Fly.io](https://dev.to/aris/deploying-authorizer-to-flyio-2mem)
-- [Simplify Your Web Development Stack [For Windows Users]](https://dev.to/aris/simplify-your-web-development-stack-for-windows-users-abo)
 <!-- BLOG-POST-LIST:END -->
 
 #### Contact detail:
@@ -75,7 +71,7 @@ npx riipandi
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B18%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B15.5%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B15%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B13.4%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B13.3%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B15.5%25)
  -->
 
